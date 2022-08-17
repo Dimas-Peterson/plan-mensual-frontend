@@ -1,0 +1,17 @@
+.bg-dark-main{
+    background-color: #222;
+}
+
+.height-headerCard{
+    height: 65px;
+}
+
+.h-60{
+    height:60%;
+    min-height: 60%;
+}
+
+.h-40{
+    height: 40%;
+    max-height: 40%;
+}
